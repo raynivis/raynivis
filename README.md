@@ -1,7 +1,7 @@
 ### Oiii Pessoal 👋
 
 # 💫 About Me:
-Estudo UFMS – Universidade Federal de Mato Grosso do Sul <br>no  Câmpus de Três Lagoas<br><br>Gosto muito de front-end e back-end, gosto de problemas <br>que parecem que não tem solução :)
+Estudo na UFMS – Universidade Federal de Mato Grosso do Sul <br>no  Câmpus de Três Lagoas<br><br>Gosto muito de back-end, banco de dados e estruturas de dados, gosto de problemas <br>que parecem que não tem solução :)
 
 
 ## 🌐 Socials:
